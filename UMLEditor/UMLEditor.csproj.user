@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FormConfirmation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormEditorInput.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

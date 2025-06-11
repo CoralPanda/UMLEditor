@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "H1OLvIen7ms=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\schen\\Desktop\\09_PRG\\02_Projekty\\00_Projekt\\UMLEditor\\UMLEditor\\UMLEditor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\schen\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
